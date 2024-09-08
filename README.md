@@ -73,17 +73,15 @@ The goal of our final project was to...
 
 ## Electrical Diagram
 <div align="center">
-<img src="images\electrical-diagram.png?" width="638" height="397">
+<img src="images\electrical-diagram.png?" width="581" height="365">
 </div>
-
-* sdfoijsdnifjodns
  
 ## References
 * sdifjnsdig
 * sdfoijsdnifjodns
 
 ## Contacts
-* Aryan Palaskar - sdfgdfghfdgj
-* A.J Olivares - asasafasdfsdfs
-* Edward Lee - sdfsfsdfsfds
+* Aryan Palaskar - apalaskar@ucsd.edu
+* A.J Olivares - aaolivares@ucsd.edu
+* Edward Lee - edl003@ucsd.edu
 
