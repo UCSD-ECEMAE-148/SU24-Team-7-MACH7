@@ -1,5 +1,8 @@
 # <div align="center">Autonomous Ticketing Agent</div>
-![image](https://github.com/edl003/SU24-Team7-MACH7/blob/d6ad125ad7ce680656b86008be92bc5fca9a973f/images/UCSD-JSOE-LOGO.png)
+<div align="center">
+  <a href="https://jacobsschool.ucsd.edu/">
+    <img src="images\UCSD-JSOE-LOGO.png" alt="Logo" width="400" height="100">
+  </a>
 ### <div align="center"> MAE 148 Final Project </div>
 #### <div align="center"> Team  </div>
 
