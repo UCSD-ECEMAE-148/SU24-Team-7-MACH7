@@ -9,6 +9,7 @@
 <p>
 MAE 148 Final Project SU24
 </p>
+<img src="images\CAR.jpg?" width="605" height="501">
 </div>
 
 ## Table of Contents
@@ -20,6 +21,7 @@ MAE 148 Final Project SU24
     <li><a href="#demonstration">Demonstration</a></li>
     <li><a href="#challenges">Challenges</a></li>
     <li><a href="#robot-design">Robot Design</a></li>
+    <li><a href="#electrical-diagram">Electrical Diagram</a></li>
     <li><a href="#references">References</a></li>
     <li><a href="#contacts">Contacts</a></li>
   </ol>
@@ -64,7 +66,14 @@ The goal of our final project was to...
  
 ## Robot Design
 <div align="center">
+<img src="images\car-cad.png?" width="851" height="386">
+</div>
 
+* sdfoijsdnifjodns
+
+## Electrical Diagram
+<div align="center">
+<img src="images\electrical-diagram.png?" width="638" height="397">
 </div>
 
 * sdfoijsdnifjodns
