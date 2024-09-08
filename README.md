@@ -8,8 +8,8 @@
 
 ## 
 
-<h3>MAE 148 Final Project SU24</h3>
 <h3>Team 7 aka MACH7</h3>
+<h3>MAE 148 Final Project SU24</h3>
 <p>
 </p>
 <img src="images\CAR.jpg?" width="605" height="501">
