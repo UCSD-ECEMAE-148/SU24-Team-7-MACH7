@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://jacobsschool.ucsd.edu/">
-    <img src="images\UCSD-JSOE-LOGO.png" alt="Logo" width="432" height="108">
+    
   </a>
 <h3>Team 7 aka MACH7</h3>
 <p>
@@ -65,7 +65,7 @@ The goal of our final project was to...
  
 ## Robot Design
 <div align="center">
-<img src="images\car-cad.png" width="510" height="317">
+
 </div>
 
 * sdfoijsdnifjodns
