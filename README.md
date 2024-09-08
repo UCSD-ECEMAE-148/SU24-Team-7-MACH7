@@ -42,7 +42,7 @@ The goal of our final project was to...
 
 ## What We Promised
 ### Must Have:
-* A working license plate detection model for the camera that can store the individual letters/numbers.
+* A working license plate detection model for the camera that can recognize and store the individual letters/numbers.
 * A script that compares the license plate numbers with a list of valid permits.
 
 ### Nice to Have:
