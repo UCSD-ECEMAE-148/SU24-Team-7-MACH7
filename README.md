@@ -38,7 +38,7 @@
 </ul>
 
 ## Abstract
-The goal of our final project was to...
+The goal of our project, the "Autonomous Ticketing Agent", focused on implementing an automatic license plate recognition (ALPR) system along with the vehicle control system within ROS2. We aim to do this so that we could automously scan for license plates in parking lots and ticket any vehicles that do not have a valid permit. By leveraging the capabilities of ROS2, we aim to design a robust framework that ensures an accurate license plate detection and effective autonomous control. This innovative approach not only enhances the efficiency of traffic management, but also contributes to the development of smart parking lots.
 
 ## What We Promised
 ### Must Have:
