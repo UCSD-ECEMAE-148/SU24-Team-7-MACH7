@@ -79,8 +79,8 @@ https://github.com/user-attachments/assets/7f2d49a2-581b-4cc4-94c3-61d6a153aa0f
 </div>
  
 ## References
-* sdifjnsdig
-* sdfoijsdnifjodns
+* [Open ALPR](https://github.com/openalpr/openalpr)
+* [Roboflow License Plate Vision Model](https://universe.roboflow.com/sezgin-koc-3z1r3/license-plates-kwudy)
 
 ## Contacts
 * Aryan Palaskar - apalaskar@ucsd.edu
