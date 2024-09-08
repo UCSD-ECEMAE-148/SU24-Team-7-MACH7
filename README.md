@@ -52,7 +52,7 @@ The goal of our final project was to...
 ## Accomplishments
 * We utilized the OAKD camera through the use of a license plate recognition CV model that was developed and posted on Roboflow.
   * We were able to detect the individual numbers/letters on the license plates and store them with about a 90% accuracy.
-* We also created a script that compares the license plates with a database of license plates that have proper permits. 
+* We created a script that compares the license plates with a database of license plates that have proper permits. 
   * It can then alert the user if the license plate does not match or if it’s valid.
 * We also created a quick GPS route that can work alongside the license plate detection system.
   * However we didn't have enough time to implement it into ROS2, so we had to run it on DonkeyCar.
