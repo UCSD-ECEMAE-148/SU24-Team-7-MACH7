@@ -9,7 +9,6 @@
 <p>
 MAE 148 Final Project SU24
 </p>
-<img src="images\CAR.jpg" width="756" height="1008">
 </div>
 
 ## Table of Contents
@@ -65,7 +64,7 @@ The goal of our final project was to...
  
 ## Robot Design
 <div align="center">
-<img src="images\car-cad.png" width="510" height="317">
+
 </div>
 
 * sdfoijsdnifjodns
