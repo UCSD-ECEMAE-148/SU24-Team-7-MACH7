@@ -57,6 +57,7 @@ The goal of our final project was to...
 https://github.com/user-attachments/assets/48569c6a-5c45-45ba-9fe2-cc5fc6ea7f71
 <p>
 </p>
+
 https://github.com/user-attachments/assets/7f2d49a2-581b-4cc4-94c3-61d6a153aa0f
 
 ## Challenges
