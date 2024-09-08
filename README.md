@@ -9,7 +9,7 @@
 <p>
 MAE 148 Final Project SU24
 </p>
-<img src="images\CAR.jpg" alt="Logo" width="756" height="1008">
+<img src="images\CAR.jpg" width="756" height="1008">
 </div>
 
 ## Table of Contents
@@ -18,12 +18,10 @@ MAE 148 Final Project SU24
     <li><a href="#abstract">Abstract</a></li>
     <li><a href="#what-we-promised">What We Promised</a></li>
     <li><a href="#accomplishments">Accomplishments</a></li>
+    <li><a href="#demonstration">Demonstration</a></li>
     <li><a href="#challenges">Challenges</a></li>
-    <li><a href="#final-project-videos">Final Project Videos</a></li>
-    <li><a href="#software">Software</a></li>
-    <li><a href="#hardware">Hardware</a></li>
-    <li><a href="#course-deliverables">Course Deliverables</a></li>
-    <li><a href="#project-reproduction">Project Reproduction</a></li>
+    <li><a href="#robot-design">Robot Design</a></li>
+    <li><a href="#references">References</a></li>
     <li><a href="#contacts">Contacts</a></li>
   </ol>
   
@@ -34,3 +32,50 @@ MAE 148 Final Project SU24
   <li>A.J Olivares - Cognitive Science: Machine Learning</li>
   <li>Edward Lee - Mechanical Engineering</li>
 </ul>
+
+## Abstract
+The goal of our final project was to...
+
+## What We Promised
+### Must Have
+* OKFMAODFKMS
+
+### Nice to Have
+* SDKIFGJNSDJKI
+* SDKJGFSNDGFIJO
+
+## Accomplishments
+* sdifjnsdig
+  * sdgijsdngijsn
+  * sdfojsndfojsdnfisd
+* sdfoijsdnifjodns
+  * sdfogjsndijogns
+  * sdikfhbsdifshbj
+ 
+## Demonstration
+
+
+## Challenges
+* sdifjnsdig
+  * sdgijsdngijsn
+  * sdfojsndfojsdnfisd
+* sdfoijsdnifjodns
+  * sdfogjsndijogns
+  * sdikfhbsdifshbj
+ 
+## Robot Design
+<div align="center">
+<img src="images\car-cad.png" width="510" height="317">
+</div>
+
+* sdfoijsdnifjodns
+ 
+## References
+* sdifjnsdig
+* sdfoijsdnifjodns
+
+## Contacts
+* Aryan Palaskar - sdfgdfghfdgj
+* A.J Olivares - asasafasdfsdfs
+* Edward Lee - sdfsfsdfsfds
+
