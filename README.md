@@ -1,14 +1,15 @@
-# <div align="center">Autonomous Ticketing Agent</div>
+<div id="top"></div>
+<h1 align="center">MAE 148 Final Project SU24</h1>
+<br />
 <div align="center">
   <a href="https://jacobsschool.ucsd.edu/">
     <img src="images\UCSD-JSOE-LOGO.png" alt="Logo" width="400" height="100">
   </a>
+<h3>Autonomous Ticketing Agent</h3>
 <p>
-### <div align="center"> MAE 148 Final Project </div>
-#### <div align="center"> Team  </div>
-
-<div align="center">
-    <img src="images\ucsdrobocar-148-07.webp" width="800" height="600">
+Team 7 aka MACH7
+</p>
+<img src="images\GroupPic.png">
 </div>
 
 ## Table of Contents
