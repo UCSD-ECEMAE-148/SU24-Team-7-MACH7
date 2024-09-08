@@ -54,7 +54,13 @@ The goal of our final project was to...
   * sdikfhbsdifshbj
  
 ## Demonstration
+<div align="center">
+https://github.com/user-attachments/assets/0176e003-b36e-45b2-9084-3f2f8738930c
+</div>
 
+<div align="center">
+https://github.com/user-attachments/assets/d01debc6-0514-4906-a793-3c71fd3ad07a
+</div>
 
 ## Challenges
 * sdifjnsdig
