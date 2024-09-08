@@ -1,15 +1,15 @@
 <div id="top"></div>
-<h1 align="center">MAE 148 Final Project SU24</h1>
+<h1 align="center">Autonomous Ticketing Agent</h1>
 <br />
 <div align="center">
   <a href="https://jacobsschool.ucsd.edu/">
-    <img src="images\UCSD-JSOE-LOGO.png" alt="Logo" width="400" height="100">
+    <img src="images\UCSD-JSOE-LOGO.png" alt="Logo" width="432" height="108">
   </a>
-<h3>Autonomous Ticketing Agent</h3>
+<h3>Team 7 aka MACH7</h3>
 <p>
-Team 7 aka MACH7
+MAE 148 Final Project SU24
 </p>
-<img src="images\GroupPic.png">
+<img src="images\CAR.jpg" alt="Logo" width="756" height="1008">
 </div>
 
 ## Table of Contents
@@ -26,5 +26,11 @@ Team 7 aka MACH7
     <li><a href="#project-reproduction">Project Reproduction</a></li>
     <li><a href="#contacts">Contacts</a></li>
   </ol>
+  
+## Team Members
 
-<hr>
+<ul>
+  <li>Aryan Palaskar - Computer Science</li>
+  <li>A.J Olivares - Cognitive Science: Machine Learning</li>
+  <li>Edward Lee - Mechanical Engineering</li>
+</ul>
