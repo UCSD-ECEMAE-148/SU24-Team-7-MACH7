@@ -42,20 +42,21 @@ The goal of our final project was to...
 
 ## What We Promised
 ### Must Have
-* OKFMAODFKMS
+* A working license plate detection model for the camera that can store the individual letters/numbers.
+* A script that compares the license plate numbers with a list of valid permits.
 
 ### Nice to Have
-* SDKIFGJNSDJKI
-* SDKJGFSNDGFIJO
+* An automated route for the robot to follow using the GPS.
+* An obstacle avoidance model using the LiDAR.
 
 ## Accomplishments
-* sdifjnsdig
-  * sdgijsdngijsn
-  * sdfojsndfojsdnfisd
-* sdfoijsdnifjodns
-  * sdfogjsndijogns
-  * sdikfhbsdifshbj
- 
+* We utilized the OAKD camera through the use of a license plate recognition CV model that was developed and posted on Roboflow.
+  * We were able to detect the individual numbers/letters on the license plates and store them with about a 90% accuracy.
+* We also created a script that compares the license plates with a database of license plates that have proper permits. 
+  * It can then alert the user if the license plate does not match or if it’s valid.
+* We also created a quick GPS route that can work alongside the license plate detection system.
+  * However we didn't have enough time to implement it into ROS2, so we had to run it on DonkeyCar.
+
 ## Demonstration
 https://github.com/user-attachments/assets/48569c6a-5c45-45ba-9fe2-cc5fc6ea7f71
 <p>
@@ -64,12 +65,10 @@ https://github.com/user-attachments/assets/48569c6a-5c45-45ba-9fe2-cc5fc6ea7f71
 https://github.com/user-attachments/assets/7f2d49a2-581b-4cc4-94c3-61d6a153aa0f
 
 ## Challenges
-* sdifjnsdig
-  * sdgijsdngijsn
-  * sdfojsndfojsdnfisd
-* sdfoijsdnifjodns
-  * sdfogjsndijogns
-  * sdikfhbsdifshbj
+* There were issues on how to get the license plate recognition model and the license plate comparison script onto ROS2.
+  * The solution was to just create a ROS2 node that launches alongside the other ROS2 nodes, allowing us to just import our license plates script directly onto ROS2.
+* There were also issues on getting the GPS to stay on its path accurately.
+  * We were previously inside of the EBU2 courtyard, so the solution was to go away from any buildings in order to prevent the GPS signals from bouncing off the walls. 
  
 ## Robot Design
 <div align="center">
