@@ -3,6 +3,7 @@
   <a href="https://jacobsschool.ucsd.edu/">
     <img src="images\UCSD-JSOE-LOGO.png" alt="Logo" width="400" height="100">
   </a>
+<p>
 ### <div align="center"> MAE 148 Final Project </div>
 #### <div align="center"> Team  </div>
 
